@@ -1,0 +1,211 @@
+﻿meal_id,patient_id,date,meal_type,food_items,portion_size,calories,carbohydrates_g,protein_g,fat_g,fiber_g,is_demo
+M-P001-2026-10-09-B,P001,2026-10-09,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P001-2026-10-09-L,P001,2026-10-09,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P001-2026-10-09-D,P001,2026-10-09,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P001-2026-10-10-B,P001,2026-10-10,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P001-2026-10-10-L,P001,2026-10-10,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P001-2026-10-10-D,P001,2026-10-10,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P001-2026-10-11-B,P001,2026-10-11,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P001-2026-10-11-L,P001,2026-10-11,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P001-2026-10-11-D,P001,2026-10-11,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P001-2026-10-12-B,P001,2026-10-12,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P001-2026-10-12-L,P001,2026-10-12,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P001-2026-10-12-D,P001,2026-10-12,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P001-2026-10-13-B,P001,2026-10-13,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P001-2026-10-13-L,P001,2026-10-13,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P001-2026-10-13-D,P001,2026-10-13,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P001-2026-10-14-B,P001,2026-10-14,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P001-2026-10-14-L,P001,2026-10-14,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P001-2026-10-14-D,P001,2026-10-14,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P001-2026-10-15-B,P001,2026-10-15,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P001-2026-10-15-L,P001,2026-10-15,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P001-2026-10-15-D,P001,2026-10-15,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P002-2026-10-09-B,P002,2026-10-09,Breakfast,Appam; Egg curry,2 medium pieces (120 g); 2 eggs with gravy (180 g),430,47,19,18,4,True
+M-P002-2026-10-09-L,P002,2026-10-09,Lunch,White rice; Chicken curry; Vegetable curry,1 cup cooked (160 g); 1 cup (180 g); 1 cup (180 g),645,73,36,23,10,True
+M-P002-2026-10-09-D,P002,2026-10-09,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P002-2026-10-10-B,P002,2026-10-10,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P002-2026-10-10-L,P002,2026-10-10,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P002-2026-10-10-D,P002,2026-10-10,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P002-2026-10-11-B,P002,2026-10-11,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P002-2026-10-11-L,P002,2026-10-11,Lunch,Matta rice; Egg curry; Thoran,1 cup cooked (160 g); 2 eggs with gravy (180 g); 1 cup (150 g),580,66,23,24,11,True
+M-P002-2026-10-11-D,P002,2026-10-11,Dinner,Idiyappam; Chicken curry; Vegetable curry,2 nests (120 g); 1 cup (180 g); 1 cup (180 g),620,67,35,24,11,True
+M-P002-2026-10-12-B,P002,2026-10-12,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P002-2026-10-12-L,P002,2026-10-12,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P002-2026-10-12-D,P002,2026-10-12,Dinner,Ragi dosa; Egg curry; Avial,2 medium pieces (140 g); 2 eggs with gravy (180 g); 1 cup (180 g),590,59,24,28,13,True
+M-P002-2026-10-13-B,P002,2026-10-13,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P002-2026-10-13-L,P002,2026-10-13,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P002-2026-10-13-D,P002,2026-10-13,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P002-2026-10-14-B,P002,2026-10-14,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P002-2026-10-14-L,P002,2026-10-14,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P002-2026-10-14-D,P002,2026-10-14,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P002-2026-10-15-B,P002,2026-10-15,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P002-2026-10-15-L,P002,2026-10-15,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P002-2026-10-15-D,P002,2026-10-15,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P003-2026-10-09-B,P003,2026-10-09,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P003-2026-10-09-L,P003,2026-10-09,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P003-2026-10-09-D,P003,2026-10-09,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P003-2026-10-10-B,P003,2026-10-10,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P003-2026-10-10-L,P003,2026-10-10,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P003-2026-10-10-D,P003,2026-10-10,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P003-2026-10-11-B,P003,2026-10-11,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P003-2026-10-11-L,P003,2026-10-11,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P003-2026-10-11-D,P003,2026-10-11,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P003-2026-10-12-B,P003,2026-10-12,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P003-2026-10-12-L,P003,2026-10-12,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P003-2026-10-12-D,P003,2026-10-12,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P003-2026-10-13-B,P003,2026-10-13,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P003-2026-10-13-L,P003,2026-10-13,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P003-2026-10-13-D,P003,2026-10-13,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P003-2026-10-14-B,P003,2026-10-14,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P003-2026-10-14-L,P003,2026-10-14,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P003-2026-10-14-D,P003,2026-10-14,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P003-2026-10-15-B,P003,2026-10-15,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P003-2026-10-15-L,P003,2026-10-15,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P003-2026-10-15-D,P003,2026-10-15,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P004-2026-10-09-B,P004,2026-10-09,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P004-2026-10-09-L,P004,2026-10-09,Lunch,Matta rice; Egg curry; Thoran,1 cup cooked (160 g); 2 eggs with gravy (180 g); 1 cup (150 g),580,66,23,24,11,True
+M-P004-2026-10-09-D,P004,2026-10-09,Dinner,Idiyappam; Chicken curry; Vegetable curry,2 nests (120 g); 1 cup (180 g); 1 cup (180 g),620,67,35,24,11,True
+M-P004-2026-10-10-B,P004,2026-10-10,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P004-2026-10-10-L,P004,2026-10-10,Lunch,Brown rice; Fish curry; Vegetable curry,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),565,70,34,17,12,True
+M-P004-2026-10-10-D,P004,2026-10-10,Dinner,Ragi dosa; Egg curry; Avial,2 medium pieces (140 g); 2 eggs with gravy (180 g); 1 cup (180 g),590,59,24,28,13,True
+M-P004-2026-10-11-B,P004,2026-10-11,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P004-2026-10-11-L,P004,2026-10-11,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P004-2026-10-11-D,P004,2026-10-11,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P004-2026-10-12-B,P004,2026-10-12,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P004-2026-10-12-L,P004,2026-10-12,Lunch,Matta rice; Fish curry; Avial,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),550,66,32,17,10,True
+M-P004-2026-10-12-D,P004,2026-10-12,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P004-2026-10-13-B,P004,2026-10-13,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P004-2026-10-13-L,P004,2026-10-13,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P004-2026-10-13-D,P004,2026-10-13,Dinner,Appam; Fish curry; Thoran,2 medium pieces (120 g); 1 piece with gravy (150 g); 1 cup (150 g),510,57,32,17,9,True
+M-P004-2026-10-14-B,P004,2026-10-14,Breakfast,Appam; Egg curry,2 medium pieces (120 g); 2 eggs with gravy (180 g),430,47,19,18,4,True
+M-P004-2026-10-14-L,P004,2026-10-14,Lunch,White rice; Chicken curry; Vegetable curry,1 cup cooked (160 g); 1 cup (180 g); 1 cup (180 g),645,73,36,23,10,True
+M-P004-2026-10-14-D,P004,2026-10-14,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P004-2026-10-15-B,P004,2026-10-15,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P004-2026-10-15-L,P004,2026-10-15,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P004-2026-10-15-D,P004,2026-10-15,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P005-2026-10-09-B,P005,2026-10-09,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P005-2026-10-09-L,P005,2026-10-09,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P005-2026-10-09-D,P005,2026-10-09,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P005-2026-10-10-B,P005,2026-10-10,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P005-2026-10-10-L,P005,2026-10-10,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P005-2026-10-10-D,P005,2026-10-10,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P005-2026-10-11-B,P005,2026-10-11,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P005-2026-10-11-L,P005,2026-10-11,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P005-2026-10-11-D,P005,2026-10-11,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P005-2026-10-12-B,P005,2026-10-12,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P005-2026-10-12-L,P005,2026-10-12,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P005-2026-10-12-D,P005,2026-10-12,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P005-2026-10-13-B,P005,2026-10-13,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P005-2026-10-13-L,P005,2026-10-13,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P005-2026-10-13-D,P005,2026-10-13,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P005-2026-10-14-B,P005,2026-10-14,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P005-2026-10-14-L,P005,2026-10-14,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P005-2026-10-14-D,P005,2026-10-14,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P005-2026-10-15-B,P005,2026-10-15,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P005-2026-10-15-L,P005,2026-10-15,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P005-2026-10-15-D,P005,2026-10-15,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P006-2026-10-09-B,P006,2026-10-09,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P006-2026-10-09-L,P006,2026-10-09,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P006-2026-10-09-D,P006,2026-10-09,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P006-2026-10-10-B,P006,2026-10-10,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P006-2026-10-10-L,P006,2026-10-10,Lunch,Matta rice; Fish curry; Avial,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),550,66,32,17,10,True
+M-P006-2026-10-10-D,P006,2026-10-10,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P006-2026-10-11-B,P006,2026-10-11,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P006-2026-10-11-L,P006,2026-10-11,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P006-2026-10-11-D,P006,2026-10-11,Dinner,Appam; Fish curry; Thoran,2 medium pieces (120 g); 1 piece with gravy (150 g); 1 cup (150 g),510,57,32,17,9,True
+M-P006-2026-10-12-B,P006,2026-10-12,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P006-2026-10-12-L,P006,2026-10-12,Lunch,White rice; Chicken curry; Vegetable curry,1 cup cooked (160 g); 1 cup (180 g); 1 cup (180 g),645,73,36,23,10,True
+M-P006-2026-10-12-D,P006,2026-10-12,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P006-2026-10-13-B,P006,2026-10-13,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P006-2026-10-13-L,P006,2026-10-13,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P006-2026-10-13-D,P006,2026-10-13,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P006-2026-10-14-B,P006,2026-10-14,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P006-2026-10-14-L,P006,2026-10-14,Lunch,Brown rice; Fish curry; Vegetable curry,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),565,70,34,17,12,True
+M-P006-2026-10-14-D,P006,2026-10-14,Dinner,Idiyappam; Chicken curry; Vegetable curry,2 nests (120 g); 1 cup (180 g); 1 cup (180 g),620,67,35,24,11,True
+M-P006-2026-10-15-B,P006,2026-10-15,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P006-2026-10-15-L,P006,2026-10-15,Lunch,Brown rice; Fish curry; Vegetable curry,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),565,70,34,17,12,True
+M-P006-2026-10-15-D,P006,2026-10-15,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P007-2026-10-09-B,P007,2026-10-09,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P007-2026-10-09-L,P007,2026-10-09,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P007-2026-10-09-D,P007,2026-10-09,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P007-2026-10-10-B,P007,2026-10-10,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P007-2026-10-10-L,P007,2026-10-10,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P007-2026-10-10-D,P007,2026-10-10,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P007-2026-10-11-B,P007,2026-10-11,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P007-2026-10-11-L,P007,2026-10-11,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P007-2026-10-11-D,P007,2026-10-11,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P007-2026-10-12-B,P007,2026-10-12,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P007-2026-10-12-L,P007,2026-10-12,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P007-2026-10-12-D,P007,2026-10-12,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P007-2026-10-13-B,P007,2026-10-13,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P007-2026-10-13-L,P007,2026-10-13,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P007-2026-10-13-D,P007,2026-10-13,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P007-2026-10-14-B,P007,2026-10-14,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P007-2026-10-14-L,P007,2026-10-14,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P007-2026-10-14-D,P007,2026-10-14,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P007-2026-10-15-B,P007,2026-10-15,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P007-2026-10-15-L,P007,2026-10-15,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P007-2026-10-15-D,P007,2026-10-15,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P008-2026-10-09-B,P008,2026-10-09,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P008-2026-10-09-L,P008,2026-10-09,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P008-2026-10-09-D,P008,2026-10-09,Dinner,Appam; Fish curry; Thoran,2 medium pieces (120 g); 1 piece with gravy (150 g); 1 cup (150 g),510,57,32,17,9,True
+M-P008-2026-10-10-B,P008,2026-10-10,Breakfast,Appam; Egg curry,2 medium pieces (120 g); 2 eggs with gravy (180 g),430,47,19,18,4,True
+M-P008-2026-10-10-L,P008,2026-10-10,Lunch,White rice; Chicken curry; Vegetable curry,1 cup cooked (160 g); 1 cup (180 g); 1 cup (180 g),645,73,36,23,10,True
+M-P008-2026-10-10-D,P008,2026-10-10,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P008-2026-10-11-B,P008,2026-10-11,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P008-2026-10-11-L,P008,2026-10-11,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P008-2026-10-11-D,P008,2026-10-11,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P008-2026-10-12-B,P008,2026-10-12,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P008-2026-10-12-L,P008,2026-10-12,Lunch,Matta rice; Egg curry; Thoran,1 cup cooked (160 g); 2 eggs with gravy (180 g); 1 cup (150 g),580,66,23,24,11,True
+M-P008-2026-10-12-D,P008,2026-10-12,Dinner,Idiyappam; Chicken curry; Vegetable curry,2 nests (120 g); 1 cup (180 g); 1 cup (180 g),620,67,35,24,11,True
+M-P008-2026-10-13-B,P008,2026-10-13,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P008-2026-10-13-L,P008,2026-10-13,Lunch,Brown rice; Fish curry; Vegetable curry,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),565,70,34,17,12,True
+M-P008-2026-10-13-D,P008,2026-10-13,Dinner,Ragi dosa; Egg curry; Avial,2 medium pieces (140 g); 2 eggs with gravy (180 g); 1 cup (180 g),590,59,24,28,13,True
+M-P008-2026-10-14-B,P008,2026-10-14,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P008-2026-10-14-L,P008,2026-10-14,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P008-2026-10-14-D,P008,2026-10-14,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P008-2026-10-15-B,P008,2026-10-15,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P008-2026-10-15-L,P008,2026-10-15,Lunch,Matta rice; Fish curry; Avial,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),550,66,32,17,10,True
+M-P008-2026-10-15-D,P008,2026-10-15,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P009-2026-10-09-B,P009,2026-10-09,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P009-2026-10-09-L,P009,2026-10-09,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P009-2026-10-09-D,P009,2026-10-09,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P009-2026-10-10-B,P009,2026-10-10,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P009-2026-10-10-L,P009,2026-10-10,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P009-2026-10-10-D,P009,2026-10-10,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P009-2026-10-11-B,P009,2026-10-11,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P009-2026-10-11-L,P009,2026-10-11,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P009-2026-10-11-D,P009,2026-10-11,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P009-2026-10-12-B,P009,2026-10-12,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P009-2026-10-12-L,P009,2026-10-12,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P009-2026-10-12-D,P009,2026-10-12,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P009-2026-10-13-B,P009,2026-10-13,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P009-2026-10-13-L,P009,2026-10-13,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P009-2026-10-13-D,P009,2026-10-13,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P009-2026-10-14-B,P009,2026-10-14,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P009-2026-10-14-L,P009,2026-10-14,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P009-2026-10-14-D,P009,2026-10-14,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P009-2026-10-15-B,P009,2026-10-15,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P009-2026-10-15-L,P009,2026-10-15,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P009-2026-10-15-D,P009,2026-10-15,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P010-2026-10-09-B,P010,2026-10-09,Breakfast,Puttu; Kadala curry,150 g serving; 1 cup (180 g),500,82,17,11,14,True
+M-P010-2026-10-09-L,P010,2026-10-09,Lunch,Matta rice; Fish curry; Avial,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),550,66,32,17,10,True
+M-P010-2026-10-09-D,P010,2026-10-09,Dinner,Chapati; Vegetable curry; Paneer curry,2 medium pieces (100 g); 1 cup (180 g); 1 cup (180 g),680,70,29,33,16,True
+M-P010-2026-10-10-B,P010,2026-10-10,Breakfast,Idli; Sambar,2 pieces (120 g); 1 cup (200 g),290,52,12,4,8,True
+M-P010-2026-10-10-L,P010,2026-10-10,Lunch,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
+M-P010-2026-10-10-D,P010,2026-10-10,Dinner,Appam; Fish curry; Thoran,2 medium pieces (120 g); 1 piece with gravy (150 g); 1 cup (150 g),510,57,32,17,9,True
+M-P010-2026-10-11-B,P010,2026-10-11,Breakfast,Appam; Egg curry,2 medium pieces (120 g); 2 eggs with gravy (180 g),430,47,19,18,4,True
+M-P010-2026-10-11-L,P010,2026-10-11,Lunch,White rice; Chicken curry; Vegetable curry,1 cup cooked (160 g); 1 cup (180 g); 1 cup (180 g),645,73,36,23,10,True
+M-P010-2026-10-11-D,P010,2026-10-11,Dinner,Dosa; Sambar; Sprouts salad,2 medium pieces (130 g); 1 cup (200 g); 1 cup (150 g),470,76,22,10,16,True
+M-P010-2026-10-12-B,P010,2026-10-12,Breakfast,Dosa; Tomato chutney,2 medium pieces (130 g); 2 tbsp (30 g),245,40,7,6,4,True
+M-P010-2026-10-12-L,P010,2026-10-12,Lunch,Chapati; Dal; Avial,2 medium pieces (100 g); 1 serving; 1 cup (180 g),550,81,21,17,20,True
+M-P010-2026-10-12-D,P010,2026-10-12,Dinner,Puttu; Green gram curry,150 g serving; 1 cup (180 g),460,77,18,8,13,True
+M-P010-2026-10-13-B,P010,2026-10-13,Breakfast,Idiyappam; Vegetable stew,2 nests (120 g); 1 cup (180 g),350,57,7,10,7,True
+M-P010-2026-10-13-L,P010,2026-10-13,Lunch,Matta rice; Egg curry; Thoran,1 cup cooked (160 g); 2 eggs with gravy (180 g); 1 cup (150 g),580,66,23,24,11,True
+M-P010-2026-10-13-D,P010,2026-10-13,Dinner,Idiyappam; Chicken curry; Vegetable curry,2 nests (120 g); 1 cup (180 g); 1 cup (180 g),620,67,35,24,11,True
+M-P010-2026-10-14-B,P010,2026-10-14,Breakfast,Oats porridge; Guava,1 bowl (200 g); 1 medium (100 g),258,46,10,5,10,True
+M-P010-2026-10-14-L,P010,2026-10-14,Lunch,Brown rice; Fish curry; Vegetable curry,1 cup cooked (160 g); 1 piece with gravy (150 g); 1 cup (180 g),565,70,34,17,12,True
+M-P010-2026-10-14-D,P010,2026-10-14,Dinner,Ragi dosa; Egg curry; Avial,2 medium pieces (140 g); 2 eggs with gravy (180 g); 1 cup (180 g),590,59,24,28,13,True
+M-P010-2026-10-15-B,P010,2026-10-15,Breakfast,Ragi dosa; Sambar,2 medium pieces (140 g); 1 cup (200 g),340,57,12,7,11,True
+M-P010-2026-10-15-L,P010,2026-10-15,Lunch,Chapati; Paneer curry; Thoran,2 medium pieces (100 g); 1 cup (180 g); 1 cup (150 g),650,63,28,33,15,True
+M-P010-2026-10-15-D,P010,2026-10-15,Dinner,Brown rice; Green gram curry; Thoran,1 cup cooked (160 g); 1 cup (180 g); 1 cup (150 g),565,88,22,14,19,True
