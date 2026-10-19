@@ -1,0 +1,35 @@
+﻿food_id,food_name,regional_name,category,serving_size,calories,carbohydrates_g,protein_g,fat_g,fiber_g,allergens,source,is_demo
+F001,Puttu,പുട്ട്,Breakfast,150 g serving,240,47,5,3,4,Coconut,Synthetic demo estimate; not clinically validated,True
+F002,Appam,അപ്പം,Breakfast,2 medium pieces (120 g),190,39,4,2,2,,Synthetic demo estimate; not clinically validated,True
+F003,Idiyappam,ഇടിയപ്പം,Breakfast,2 nests (120 g),180,39,3,1,2,,Synthetic demo estimate; not clinically validated,True
+F004,Dosa,ദോശ,Breakfast,2 medium pieces (130 g),210,34,6,5,3,,Synthetic demo estimate; not clinically validated,True
+F005,Idli,ഇഡ്ഡലി,Breakfast,2 pieces (120 g),150,30,5,1,2,,Synthetic demo estimate; not clinically validated,True
+F006,Matta rice,മട്ട അരി,Grain,1 cup cooked (160 g),210,45,4,1,3,,Synthetic demo estimate; not clinically validated,True
+F007,Brown rice,തവിടുള്ള അരി,Grain,1 cup cooked (160 g),215,45,5,2,4,,Synthetic demo estimate; not clinically validated,True
+F008,White rice,വെളുത്ത അരി,Grain,1 cup cooked (160 g),205,45,4,0,1,,Synthetic demo estimate; not clinically validated,True
+F009,Chapati,ചപ്പാത്തി,Grain,2 medium pieces (100 g),220,38,7,5,6,Wheat,Synthetic demo estimate; not clinically validated,True
+F010,Kadala curry,കടല കറി,Legume,1 cup (180 g),260,35,12,8,10,,Synthetic demo estimate; not clinically validated,True
+F011,Avial,അവിയൽ,Vegetable,1 cup (180 g),150,16,4,8,6,Coconut,Synthetic demo estimate; not clinically validated,True
+F012,Thoran,തോരൻ,Vegetable,1 cup (150 g),130,13,4,7,6,Coconut,Synthetic demo estimate; not clinically validated,True
+F013,Sambar,സാമ്പാർ,Legume,1 cup (200 g),140,22,7,3,6,,Synthetic demo estimate; not clinically validated,True
+F014,Fish curry,മീൻ കറി,Protein,1 piece with gravy (150 g),190,5,24,8,1,Fish,Synthetic demo estimate; not clinically validated,True
+F015,Vegetable curry,പച്ചക്കറി കറി,Vegetable,1 cup (180 g),160,20,5,7,7,,Synthetic demo estimate; not clinically validated,True
+F016,Green gram curry,ചെറുപയർ കറി,Legume,1 cup (180 g),220,30,13,5,9,,Synthetic demo estimate; not clinically validated,True
+F017,Egg curry,മുട്ട കറി,Protein,2 eggs with gravy (180 g),240,8,15,16,2,Eggs,Synthetic demo estimate; not clinically validated,True
+F018,Chicken curry,കോഴി കറി,Protein,1 cup (180 g),280,8,27,16,2,,Synthetic demo estimate; not clinically validated,True
+F019,Paneer curry,പനീർ കറി,Protein,1 cup (180 g),300,12,17,21,3,Dairy,Synthetic demo estimate; not clinically validated,True
+F020,Vegetable stew,പച്ചക്കറി സ്റ്റ്യൂ,Vegetable,1 cup (180 g),170,18,4,9,5,Coconut,Synthetic demo estimate; not clinically validated,True
+F021,Coconut chutney,തേങ്ങ ചമ്മന്തി,Side,2 tbsp (30 g),90,4,2,8,2,Coconut,Synthetic demo estimate; not clinically validated,True
+F022,Tomato chutney,തക്കാളി ചമ്മന്തി,Side,2 tbsp (30 g),35,6,1,1,1,,Synthetic demo estimate; not clinically validated,True
+F023,Oats porridge,ഓട്സ് കഞ്ഞി,Breakfast,1 bowl (200 g),190,32,7,4,5,Oats,Synthetic demo estimate; not clinically validated,True
+F024,Ragi dosa,റാഗി ദോശ,Breakfast,2 medium pieces (140 g),200,35,5,4,5,,Synthetic demo estimate; not clinically validated,True
+F025,Sprouts salad,മുളപ്പിച്ച പയർ സാലഡ്,Legume,1 cup (150 g),120,20,9,2,7,,Synthetic demo estimate; not clinically validated,True
+F026,Banana,വാഴപ്പഴം,Fruit,1 medium (120 g),105,27,1,0,3,,Synthetic demo estimate; not clinically validated,True
+F027,Guava,പേരയ്ക്ക,Fruit,1 medium (100 g),68,14,3,1,5,,Synthetic demo estimate; not clinically validated,True
+F028,Papaya,പപ്പായ,Fruit,1 cup (140 g),60,15,1,0,3,,Synthetic demo estimate; not clinically validated,True
+F029,Orange,ഓറഞ്ച്,Fruit,1 medium (130 g),62,15,1,0,3,,Synthetic demo estimate; not clinically validated,True
+F030,Peanuts,നിലക്കടല,Nuts,30 g handful,170,5,7,14,3,Peanuts,Synthetic demo estimate; not clinically validated,True
+F031,Almonds,ബദാം,Nuts,28 g handful,165,6,6,14,4,Tree nuts,Synthetic demo estimate; not clinically validated,True
+F032,Curd,തൈര്,Dairy,1 small bowl (150 g),95,7,5,5,0,Dairy,Synthetic demo estimate; not clinically validated,True
+F033,Boiled egg,പുഴുങ്ങിയ മുട്ട,Protein,1 large egg (50 g),78,1,6,5,0,Eggs,Synthetic demo estimate; not clinically validated,True
+F034,Grilled fish,ഗ്രിൽ ചെയ്ത മീൻ,Protein,1 fillet (120 g),200,0,26,10,0,Fish,Synthetic demo estimate; not clinically validated,True
