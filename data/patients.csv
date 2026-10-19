@@ -1,0 +1,11 @@
+﻿patient_id,age,gender,diabetes_type,diet_preference,cuisine_preference,activity_level,allergies_restrictions,health_goals,lifestyle_notes,is_demo
+P001,42,Female,Type 2,Vegetarian,Kerala,Moderate,None,Learn about balanced meal patterns,Desk-based work; evening walks,True
+P002,55,Male,Type 2,Non-vegetarian,Kerala,Light,Fish,Understand meal and glucose records,Mostly sedentary; occasional walks,True
+P003,36,Female,Type 2,Vegetarian,South Indian,Active,Peanuts,Explore regional meal variety,Regular yoga practice,True
+P004,61,Male,Type 2,Non-vegetarian,Kerala,Light,None,Build consistent tracking habits,Retired; morning gardening,True
+P005,47,Female,Type 2,Vegetarian,Kerala,Moderate,Dairy,Review meal and lifestyle patterns,Walks several times a week,True
+P006,51,Male,Type 2,Non-vegetarian,South Indian,Moderate,Eggs,Learn general nutrition basics,Commutes by bicycle occasionally,True
+P007,29,Female,Type 2,Vegetarian,South Indian,Active,None,Track daily routines,Enjoys dance and walking,True
+P008,68,Male,Type 2,Non-vegetarian,Kerala,Light,Shellfish,Keep a simple food diary,Short walks when convenient,True
+P009,39,Female,Type 2,Vegetarian,Kerala,Moderate,Tree nuts,Explore meal timing patterns,Works hybrid; weekend hikes,True
+P010,58,Male,Type 2,Non-vegetarian,South Indian,Moderate,None,Review weekly records,Regular evening walks,True
