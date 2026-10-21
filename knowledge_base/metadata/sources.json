@@ -1,0 +1,64 @@
+{
+  "documents": [
+    {
+      "path": "diabetes/type_2_diabetes.md",
+      "source": "NIDDK",
+      "title": "Type 2 Diabetes",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/what-is-diabetes/type-2-diabetes",
+      "topic": "diabetes",
+      "document_type": "health information",
+      "accessed_date": "2026-10-15",
+      "access_conditions": "Official public NIDDK web page; bundled text is limited to brief attributed extracts. Check source terms before redistribution."
+    },
+    {
+      "path": "diabetes/glucose_monitoring.md",
+      "source": "NIDDK",
+      "title": "Managing Diabetes",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/managing-diabetes",
+      "topic": "diabetes",
+      "document_type": "health information",
+      "accessed_date": "2026-10-15",
+      "access_conditions": "Official public NIDDK web page; bundled text is limited to brief attributed extracts. Check source terms before redistribution."
+    },
+    {
+      "path": "nutrition/healthy_eating_and_carbohydrates.md",
+      "source": "NIDDK",
+      "title": "Healthy Living with Diabetes",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "topic": "nutrition",
+      "document_type": "health information",
+      "accessed_date": "2026-10-15",
+      "access_conditions": "Official public NIDDK web page; bundled text is limited to brief attributed extracts. Check source terms before redistribution."
+    },
+    {
+      "path": "nutrition/fiber_and_portions.md",
+      "source": "NIDDK",
+      "title": "Healthy Living with Diabetes",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "topic": "nutrition",
+      "document_type": "health information",
+      "accessed_date": "2026-10-15",
+      "access_conditions": "Official public NIDDK web page; bundled text is limited to brief attributed extracts. Check source terms before redistribution."
+    },
+    {
+      "path": "lifestyle/physical_activity_sleep_stress.md",
+      "source": "NIDDK",
+      "title": "Healthy Living with Diabetes",
+      "url": "https://www.niddk.nih.gov/health-information/diabetes/overview/healthy-living-with-diabetes",
+      "topic": "lifestyle",
+      "document_type": "health information",
+      "accessed_date": "2026-10-15",
+      "access_conditions": "Official public NIDDK web page; bundled text is limited to brief attributed extracts. Check source terms before redistribution."
+    },
+    {
+      "path": "diabetes/who_diabetes_overview.md",
+      "source": "WHO",
+      "title": "Diabetes",
+      "url": "https://www.who.int/news-room/fact-sheets/detail/diabetes",
+      "topic": "diabetes",
+      "document_type": "fact sheet",
+      "accessed_date": "2026-10-15",
+      "access_conditions": "Official public WHO fact sheet; bundled text is limited to brief attributed extracts. Verify WHO reuse terms before redistribution."
+    }
+  ]
+}
