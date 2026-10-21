@@ -1,0 +1,22 @@
+[
+  {"question": "What is type 2 diabetes?", "expected_topics": ["diabetes"]},
+  {"question": "How does insulin relate to glucose in type 2 diabetes?", "expected_topics": ["diabetes"]},
+  {"question": "What are general diabetes management topics?", "expected_topics": ["diabetes"]},
+  {"question": "What is an A1C blood glucose test?", "expected_topics": ["diabetes"]},
+  {"question": "Why is blood pressure and cholesterol mentioned in diabetes care?", "expected_topics": ["diabetes"]},
+  {"question": "What are diabetes-related complications?", "expected_topics": ["diabetes"]},
+  {"question": "How can diabetes health problems be prevented or delayed?", "expected_topics": ["diabetes"]},
+  {"question": "What is blood glucose?", "expected_topics": ["diabetes"]},
+  {"question": "How can I plan eating with diabetes?", "expected_topics": ["nutrition"]},
+  {"question": "What are carbohydrates and what happens to them?", "expected_topics": ["nutrition"]},
+  {"question": "Why should carbohydrates be considered when planning meals?", "expected_topics": ["nutrition"]},
+  {"question": "What is carbohydrate counting?", "expected_topics": ["nutrition"]},
+  {"question": "What is the diabetes plate method?", "expected_topics": ["nutrition"]},
+  {"question": "Why is fiber mentioned in healthy food choices?", "expected_topics": ["nutrition"]},
+  {"question": "How do portion sizes relate to meal planning?", "expected_topics": ["nutrition"]},
+  {"question": "What kinds of drinks have little or no added sugar?", "expected_topics": ["nutrition"]},
+  {"question": "What role does physical activity play in diabetes care?", "expected_topics": ["lifestyle"]},
+  {"question": "What does the source say about sleep for people with diabetes?", "expected_topics": ["lifestyle"]},
+  {"question": "Where can someone seek help with stress?", "expected_topics": ["lifestyle"]},
+  {"question": "What lifestyle topics are discussed alongside diabetes?", "expected_topics": ["lifestyle"]}
+]
