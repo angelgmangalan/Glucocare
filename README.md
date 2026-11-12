@@ -110,3 +110,8 @@ Record the actual test results before claiming that the project passes.
 ## Team Development
 
 The existing codebase is the starting point for further development. The next major feature is the personalized meal recommendation engine, followed by integration testing, evaluation, documentation, and deployment.
+
+
+<img width="1867" height="877" alt="image" src="https://github.com/user-attachments/assets/0386a181-d2f2-44cf-a294-7e257752ecc6" />
+
+Network: http://172.24.80.1:5173/
