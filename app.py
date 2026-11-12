@@ -37,7 +37,7 @@ from src.llm.client import LLMError
 from src.llm.config import LLMConfigurationError, load_settings
 from src.rag.pipeline import initialize_rag, retrieve_context
 from src.rag.vector_store import VectorStoreError
-from src.food_vision.ui import render_food_image_analysis
+from src.recommendation.ui import render_meal_recommendations
 
 
 @st.cache_resource
@@ -713,6 +713,23 @@ def _render_assistant_sources(sources: list[dict[str, Any]]) -> None:
                 st.text(source["text"])
 
 
+def _assistant_default_date_range(patient_id: str) -> tuple[date, date] | None:
+    records = (
+        get_patient_meals(patient_id)
+        + get_patient_glucose(patient_id)
+        + get_patient_lifestyle(patient_id)
+    )
+    dates = [
+        date.fromisoformat(record["date"])
+        for record in records
+        if record.get("date")
+    ]
+    if not dates:
+        return None
+    end_date = max(dates)
+    return end_date - timedelta(days=6), end_date
+
+
 def _show_ai_assistant(patient_id: str) -> None:
     st.title("🤖 AI Assistant")
     st.warning(
@@ -720,7 +737,15 @@ def _show_ai_assistant(patient_id: str) -> None:
         "system. Do not use it for diagnosis, emergencies, or medication decisions."
     )
     st.caption(f"Selected patient: {patient_id} · Session-only conversation history")
-    default_range = (date.today() - timedelta(days=6), date.today())
+    available_range = _assistant_default_date_range(patient_id)
+    default_range = available_range or (date.today() - timedelta(days=6), date.today())
+    if available_range:
+        st.caption(
+            f"Default period uses the latest available patient record through "
+            f"{available_range[1].isoformat()}. You can change the dates below."
+        )
+    else:
+        st.caption("No patient records are available yet; the period defaults to the last 7 days.")
     chosen_range = st.date_input(
         "Analysis period",
         value=default_range,
@@ -810,9 +835,9 @@ def _show_ai_assistant(patient_id: str) -> None:
 
 
 def main() -> None:
-    st.set_page_config(page_title="GlucoCare · Phase 7", page_icon="🥗", layout="wide")
+    st.set_page_config(page_title="GlucoCare", page_icon="🥗", layout="wide")
     st.sidebar.title("GlucoCare")
-    st.sidebar.caption("Phases 1–5 · Phase 7 Food Image Analysis")
+    st.sidebar.caption("Diabetes self-management education")
     try:
         _initialize_app_database()
     except (DataValidationError, DatabaseError) as error:
@@ -864,8 +889,7 @@ def main() -> None:
             "Analytics",
             "Medical Knowledge",
             "🤖 AI Assistant",
-            "Meal Recommendations (Coming later)",
-            "Food Image Analysis",
+            "Meal Recommendations",
             "Food Nutrition",
         ],
     )
@@ -891,10 +915,11 @@ def main() -> None:
             _show_medical_knowledge()
         elif page == "🤖 AI Assistant":
             _show_ai_assistant(selected_id)
+        elif page == "Meal Recommendations":
+            food_records = get_all_food_information(database_path)
+            render_meal_recommendations(patient, food_records)
         elif page == "Food Nutrition":
             _show_foods(database_path)
-        elif page == "Food Image Analysis":
-            render_food_image_analysis(selected_id, database_path)
         else:
             st.title(page)
             st.info("This module is reserved for a later GlucoCare phase.")
